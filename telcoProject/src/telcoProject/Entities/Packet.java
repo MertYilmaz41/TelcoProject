@@ -2,7 +2,7 @@ package telcoProject.Entities;
 
 import java.util.List;
 
-import telcoProject.Type.PacketType;
+import telcoProject.Types.PacketType;
 
 public class Packet {
 	private int id;

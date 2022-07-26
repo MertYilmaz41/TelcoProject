@@ -1,4 +1,4 @@
-package telcoProject.Type;
+package telcoProject.Types;
 
 public class PaymentType {
 	private int id;

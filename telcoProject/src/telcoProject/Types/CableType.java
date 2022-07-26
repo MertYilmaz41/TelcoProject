@@ -1,4 +1,4 @@
-package telcoProject.Type;
+package telcoProject.Types;
 
 public class CableType {
 	private int id;

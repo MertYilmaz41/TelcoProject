@@ -2,7 +2,7 @@ package telcoProject.Entities;
 
 import java.util.List;
 
-import telcoProject.Type.ServiceType;
+import telcoProject.Types.ServiceType;
 
 public class Service {
 	

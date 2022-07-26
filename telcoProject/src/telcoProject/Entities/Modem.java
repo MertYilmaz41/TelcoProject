@@ -1,6 +1,6 @@
 package telcoProject.Entities;
 
-import telcoProject.Type.ModemType;
+import telcoProject.Types.ModemType;
 
 public class Modem extends Product {
 	

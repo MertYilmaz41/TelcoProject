@@ -2,7 +2,7 @@ package telcoProject.Entities;
 
 import java.util.List;
 
-import telcoProject.Type.ProductType;
+import telcoProject.Types.ProductType;
 
 public class Product {
 	private int id;

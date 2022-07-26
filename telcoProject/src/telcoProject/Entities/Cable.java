@@ -1,6 +1,6 @@
 package telcoProject.Entities;
 
-import telcoProject.Type.CableType;
+import telcoProject.Types.CableType;
 
 public class Cable extends Product {
 	private int id;

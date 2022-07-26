@@ -16,12 +16,12 @@ import telcoProject.Entities.Product;
 import telcoProject.Entities.Service;
 import telcoProject.Entities.Subscription;
 import telcoProject.Entities.SubscriptionAddress;
-import telcoProject.Type.CableType;
-import telcoProject.Type.ModemType;
-import telcoProject.Type.PacketType;
-import telcoProject.Type.PaymentType;
-import telcoProject.Type.ProductType;
-import telcoProject.Type.ServiceType;
+import telcoProject.Types.CableType;
+import telcoProject.Types.ModemType;
+import telcoProject.Types.PacketType;
+import telcoProject.Types.PaymentType;
+import telcoProject.Types.ProductType;
+import telcoProject.Types.ServiceType;
 
 public class Main {
 

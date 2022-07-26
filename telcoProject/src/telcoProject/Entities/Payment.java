@@ -2,7 +2,7 @@ package telcoProject.Entities;
 
 import java.util.List;
 
-import telcoProject.Type.PaymentType;
+import telcoProject.Types.PaymentType;
 
 public class Payment {
 	private int id;
